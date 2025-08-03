@@ -72,7 +72,7 @@ npm run dev
 ```
 
 - The frontend will be available at https://recursive-node-tree-manager.vercel.app/
-- The backend API will be available at https://recursive-node-tree-manager.onrender.com/api
+- The backend API will be available at https://recursive-node-tree-manager.onrender.com
 
 ---
 
